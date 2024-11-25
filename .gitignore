@@ -1,0 +1,44 @@
+# C# / ASP.NET Core
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+out/
+*.nupkg
+*.snupkg
+packages/
+*.lock.json
+project.lock.json
+*.log
+*.idehelpers
+*.pdb
+*.cache
+appsettings.*.json
+appsettings.json
+secrets.json
+*.tmp
+
+# Node.js (Frontend)
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+.cache/
+.tmp/
+.vscode/
+.DS_Store
+*.log
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+*.tar
