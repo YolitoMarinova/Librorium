@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librorium.API", "Librorium.API\Librorium.API.csproj", "{555AA008-5ED0-4EAB-9EFC-9686B4B1FC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librorium.Data", "Librorium.Data\Librorium.Data.csproj", "{A8BD1598-F2D5-4C0D-A137-FDE37B3D6942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librorium.Services", "Librorium.Services\Librorium.Services.csproj", "{1D782D85-DDC2-4744-AA9C-59E47324C4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555AA008-5ED0-4EAB-9EFC-9686B4B1FC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555AA008-5ED0-4EAB-9EFC-9686B4B1FC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555AA008-5ED0-4EAB-9EFC-9686B4B1FC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555AA008-5ED0-4EAB-9EFC-9686B4B1FC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BD1598-F2D5-4C0D-A137-FDE37B3D6942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BD1598-F2D5-4C0D-A137-FDE37B3D6942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BD1598-F2D5-4C0D-A137-FDE37B3D6942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BD1598-F2D5-4C0D-A137-FDE37B3D6942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D782D85-DDC2-4744-AA9C-59E47324C4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D782D85-DDC2-4744-AA9C-59E47324C4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D782D85-DDC2-4744-AA9C-59E47324C4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D782D85-DDC2-4744-AA9C-59E47324C4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
